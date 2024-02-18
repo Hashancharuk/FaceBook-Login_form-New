@@ -1,11 +1,9 @@
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    
     <div className="modal modal-sheet position-static d-block bg-body-secondary p-4 py-md-5">
-      <div className="modal-dialog" role="document">
+      <div className="modal-dialog modal-sm" role="document">
         <div className="modal-content rounded-4 shadow">
           <div className="modal-header border-bottom-0"></div>
           <div className="container">
